@@ -1,4 +1,6 @@
-Este foi um exemplo utilizado durante o primeiro coding dojo do time sobre a ferramenta. 
+Projeto de exemplo, utilizado para estudo de testes de serviços com o Karatê DSL. 
+
+Documentação Karatê DSL: https://github.com/intuit/karate#index
 
 Pré-requisitos:
 
@@ -14,4 +16,5 @@ Passo a passo:
     
     > mvn test -Dtest=DojoTest 
 
-3. Após a execução do teste, será gerado um reporte em html. O caminho é indicado no console do prompt. Se preferir, acesse na pasta target/surefire-reports
+3. Após a execução do teste, será gerado um reporte em html. O caminho é indicado no console. Se preferir, acesse na pasta target/surefire-reports
+4. Para abrir o projeto, você pode utilizar qualquer editor de texto ou IDE de sua preferência.
