@@ -2,6 +2,8 @@ Projeto de exemplo, utilizado para estudo de testes de serviços com o Karatê D
 
 Documentação Karatê DSL: https://github.com/intuit/karate#index
 
+API de Testes (StarWars): https://swapi.co/api
+
 Pré-requisitos:
 
 1. Java 8+
