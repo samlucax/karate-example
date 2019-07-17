@@ -1,4 +1,4 @@
-package rest.starwars;
+package starwars;
 
 import org.junit.Before;
 import org.junit.runner.RunWith;
